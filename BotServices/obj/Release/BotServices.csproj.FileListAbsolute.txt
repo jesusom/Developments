@@ -1,0 +1,52 @@
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Bot Application.dll.config
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Bot Application.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Bot Application.pdb
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Autofac.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Chronic.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.Bot.Builder.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.Bot.Connector.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.Rest.ClientRuntime.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Newtonsoft.Json.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\System.Net.Http.Formatting.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\System.Web.Http.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\System.Web.Http.WebHost.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Autofac.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.Bot.Builder.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.Bot.Connector.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Newtonsoft.Json.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\System.Net.Http.Formatting.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\System.Web.Http.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\System.Web.Http.WebHost.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\obj\Release\BotServices.csprojResolveAssemblyReference.cache
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\obj\Release\Bot Application.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\obj\Release\Bot Application.pdb
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\EntityFramework.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\EntityFramework.SqlServer.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Model.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Model.pdb
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Model.dll.config
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\EntityFramework.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\EntityFramework.SqlServer.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Images\Guadalix.jpg
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Images\Navacerrada.jpg
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Images\Pozuelo.jpg
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Images\Torrelodones.jpg
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\BotServices\bin\Microsoft.Rest.ClientRuntime.xml

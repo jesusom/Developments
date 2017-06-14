@@ -1,0 +1,9 @@
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\Model\bin\Debug\Model.dll.config
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\Model\bin\Debug\Model.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\Model\bin\Debug\Model.pdb
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\Model\bin\Debug\EntityFramework.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\Model\bin\Debug\EntityFramework.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\Model\obj\Debug\Model.dll
+C:\src\Avanade\Spain Digital MU\ChatBOTS\EmployeeServices\Model\obj\Debug\Model.pdb

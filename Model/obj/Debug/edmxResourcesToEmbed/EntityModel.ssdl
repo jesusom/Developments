@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EntityModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="EntityModelStoreContainer">
+    <EntitySet Name="Bookings" EntityType="EntityModel.Store.Bookings" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RoomSet" EntityType="EntityModel.Store.RoomSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="RoomBooking" Association="EntityModel.Store.RoomBooking">
+      <End Role="Room" EntitySet="RoomSet" />
+      <End Role="Booking" EntitySet="Bookings" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Bookings">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="EmplyeeId" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="StartDate" Type="datetime" Nullable="false" />
+    <Property Name="StartTime" Type="datetime" Nullable="false" />
+    <Property Name="EndTime" Type="datetime" Nullable="false" />
+    <Property Name="Attendant" Type="int" Nullable="false" />
+    <Property Name="IsCancel" Type="bit" Nullable="false" />
+    <Property Name="RoomId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="RoomSet">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NameRoom" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Size" Type="smallint" Nullable="false" />
+    <Property Name="Projector" Type="bit" Nullable="false" />
+  </EntityType>
+  <Association Name="RoomBooking">
+    <End Role="Room" Type="EntityModel.Store.RoomSet" Multiplicity="1" />
+    <End Role="Booking" Type="EntityModel.Store.Bookings" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Room">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Booking">
+        <PropertyRef Name="RoomId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>
