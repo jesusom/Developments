@@ -13,7 +13,7 @@ using System.Threading.Tasks;
 
 namespace BotServices.Dialogs
 {
-    [LuisModel("01964138-f32c-401c-aaec-22e62b63573a", "a64a5818c24a4e8cafd20db1354deea3")]
+    [LuisModel("01964138-f32c-401c-aaec-", "a64a5818c24a4e8cafd20db")]
     [Serializable]
     public class BookRoomDialog : LuisDialog<object>
     {
